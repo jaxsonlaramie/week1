@@ -26,5 +26,9 @@ First Repo
 'mkdir' create directory
 
 'touch' create dummy file placeholder
-cat to concatenate or display file to stdout
-echo >> file: to redirect output to file
+
+'cat' to concatenate or display file to stdout
+
+'echo' to print to screen
+
+'echo >> file' to redirect output to file
